@@ -3,7 +3,7 @@
 <tr> 
 <td valign="top">
  
- <img alt="Wenjuan Li" border="1" hspace="4" src="https://scholar.google.com/citations?view_op=view_photo&amp;user=s0rD398AAAAJ&amp;citpid=1" vspace="5" width="200"> 
+ <img alt="Wenjuan Li" border="1" hspace="3" src="https://scholar.google.com/citations?view_op=view_photo&amp;user=s0rD398AAAAJ&amp;citpid=1" vspace="5" width="200"> 
  
  </td>
 <td>
