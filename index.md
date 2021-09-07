@@ -61,6 +61,7 @@ CS1303-<a href="http://www.cityu.edu.hk/ug/201314/Course/CS1303.htm" rel="nofoll
 CS3354-<a href="http://www.cityu.edu.hk/ug/201617/course/CS3354.htm" rel="nofollow">Software Engineering</a> [Semester A 2015/16]</li>
 <hr noshade="noshade">
 <h2><a name="TOC-Professional-Services"></a>Professional Services</h2>
+
 - Associate Editor
 <li style="font-family:Arial;margin-bottom:3pt">
 <a href="https://www.springer.com/journal/12652" rel="nofollow">Journal of Ambient Intelligence and Humanized Computing (AIHC)</a>, Springer
